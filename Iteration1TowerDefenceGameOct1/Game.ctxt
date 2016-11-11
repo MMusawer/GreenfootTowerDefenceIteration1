@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Game.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ makePath()
+comment2.params=
+comment2.target=void\ addEnemy()
+comment3.params=
+comment3.target=void\ addAimingTower()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ enemySpawn()
+comment6.params=
+comment6.target=void\ limitIncrease()
+numComments=7
